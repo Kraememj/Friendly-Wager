@@ -16,7 +16,7 @@ The user also has the capability to see all of their own 'Open Bets', 'Active Be
   <img src="public/Images/the-board.png" alt="The Board" width="300" height="500"/>
   <img src="public/Images/create-bet.png" alt="Individual Game" width="300" height="500"/>
   <img src="public/Images/my-bets.png" alt="My Bets" width="300" height="500"/>
-  <img src="public/Images/ProfileView.png" alt="Profile View" width="300" height="500"/>
+  <img src="public/Images/FriendsStatistics.png" alt="Profile View" width="300" height="500"/>
 </div>
 
 ## Prerequisites
